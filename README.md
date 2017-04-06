@@ -10,7 +10,9 @@
 | Version   | 1.0.0          |
 
 The following guide shows how to quickly install PlatformIO.
-[![](/Users/maximerousson/Desktop/PlatformIO:00.jpg)](PlatformIO/00.jpg)
+
+![platformio 00](https://cloud.githubusercontent.com/assets/23745295/24762487/d56aea2e-1aee-11e7-89ee-a490715bea10.jpg)
+
 
 * <a href="http://platformio.org"> PlatformIO </a> 
 * <a href="http://docs.platformio.org/en/latest/ide/atom.html#atom-package-auto-installer"> Data sheet <a/>
