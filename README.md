@@ -11,7 +11,7 @@
 
 The following guide shows how to quickly install PlatformIO.
 
-![platformio 00](https://github.com/MeuXX74/PlatformIO-IDE.git/assets/PlatformIO/00.jpg)
+![platformio 00](./assets/PlatformIO.jpg)
 
 
 * <a href="http://platformio.org"> PlatformIO </a> 
