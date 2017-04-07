@@ -39,7 +39,8 @@ Use this IDE environment when:
 * Smart Build System
 
 ## Installation
-Make sure you have the official GitHub's **Atom** text editor installed on your computer. PlatformIO IDE is built on top of it.  
+Make sure you have the official GitHub's **Atom** text editor installed on your computer. PlatformIO IDE is built on top of it. 
+ ![platformio 00](./assets/PlatformIO_3.jpg)
 
 Be sure as well to have **Clang** installed on your computer. PlatformIO IDE uses Clang for the Intelligent Code Completion.  
 
@@ -49,11 +50,12 @@ Be sure as well to have **Clang** installed on your computer. PlatformIO IDE use
 
 Open Atom Package Manager and install **platformio-ide** package (auto installer).
 
+
 * Windows, Menu: `File > Settings > Install`
 * macOS, Menu: `Atom > Preferences > Install`
 * Linux, Menu: `Edit > Preferences > Install`
  
-
+![platformio 00](./assets/PlatformIO_2.jpg)
 ## Quick Start 
 
 This tutorial introduces you to the basics of PlatformIO IDE workflow and shows you a creation process of a simple “Blink” example for an Arduino board.
@@ -62,7 +64,9 @@ This tutorial introduces you to the basics of PlatformIO IDE workflow and shows 
 
 1. To create a new project choose` Menu: PlatformIO > Initialize new Project` or `update existing`
 2. In the “New Project Menu” choose desired boards, for instance **Arduino UNO** (more than one board is allowed) and select a project directory. Then press “Process” button.
+![platformio 00](./assets/PlatformIO_5.jpg)
 3. Now, let’s create the first project source file: right-click on the folder src and choose `New File`. Call it 'main.cpp'. 
+![platformio 00](./assets/PlatformIO_6.jpg)
 4. Copy paste the following source code into the created file 'main.cpp':
 
 ```cpp 
